@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrea 👋
 I'm a 23 yo Engineer in my last year of MSc in Robotics and Automation at Sant'Anna in Pisa.
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a SLAM task for an autonomous robot, repo coming soon!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for new experiences
 - 🥅 2020 Goals: Contribute more to Open Source projects
