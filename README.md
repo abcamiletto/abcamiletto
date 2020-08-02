@@ -14,6 +14,6 @@ I'm a 23 yo Engineer in my last year of MSc in Robotics and Automation at Sant'A
 
 <br />
 
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/abcamiletto
 [instagram]: https://www.instagram.com/andreacamiletto/
 [linkedin]: https://www.linkedin.com/in/abcamiletto/
