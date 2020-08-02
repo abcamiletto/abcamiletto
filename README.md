@@ -3,7 +3,7 @@ I'm a 23 yo Engineer in my last year of MSc in Robotics and Automation at Sant'A
 
 - 🔭 I’m currently working on a SLAM task for an autonomous robot, repo coming soon!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for new experiences
+- 👯 I’m looking for new experiences and internships
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
