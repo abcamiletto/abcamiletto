@@ -1,5 +1,6 @@
 ### Hi there, I'm Andrea 👋
 There's a bunch of cool robotics stuff around here, hope you enjoy it!
+
 I'm on my last year of Robotics Engineering master, ex NASA and Amazon Intern. @santannapisa Honor student 😋
 
 - 🔭 I’m currently working on a SLAM task for an autonomous robot, repo coming soon!
