@@ -1,10 +1,6 @@
 ### Hi there, I'm Andrea 👋
-There's a bunch of cool robotics stuff around here, hope you enjoy it!
+There's a bunch of cool robotics / AI / SW stuff around here, hope you enjoy it!
 
-I'm on my last year of Robotics Engineering master, ex NASA and Amazon Intern. @santannapisa Honor student 😋
-
-- 👯 I’m looking for new experiences and internships
-- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
